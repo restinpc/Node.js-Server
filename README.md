@@ -14,5 +14,5 @@ Node.js server with support of indexing files from environment.
 
 ## Stress testing
 
-CentOS 7.6.1810, 1x2.2ГГц, 1Гб RAM 
-> `150k` requests are processed on `550` transactions per second with `7%` of errors and `50 ms` average delay.
+CentOS 7.6.1810, 1x2.2Ghz, 512Mb RAM 
+> `150k` requests are processed on `>1000` transactions per second with `0%` of errors and `50 ms` average delay.
