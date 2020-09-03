@@ -12,7 +12,8 @@ Node.js server with support of indexing files from environment.
 - Run `npm install` than `npm start`
 
 
-## Stress testing
+## [Load Test](http://loadest.io)
 
-CentOS 7.6.1810, 1x2.2Ghz, 512Mb RAM 
-> `150k` requests are processed on `>1000` transactions per second with `0%` of errors and `50 ms` average delay.
+CentOS 7.6.1810, 1x2.2Hz, 0.5gb RAM  
+
+![Load test](https://raw.githubusercontent.com/restinpc/Node.js-Server/master/loadest.png)
