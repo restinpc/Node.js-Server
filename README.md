@@ -16,4 +16,4 @@ Node.js server with support of indexing files from environment.
 
 CentOS 7.6.1810, 1x2.2Hz, 0.5gb RAM  
 
-![Load test](https://raw.githubusercontent.com/restinpc/Node-Express-Server/master/loadest.png)
+![Load test](https://raw.githubusercontent.com/restinpc/Node.js-Server/master/loadest.io.png)
